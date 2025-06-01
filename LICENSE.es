@@ -16,7 +16,7 @@ Bajo los siguientes términos:
 - NoComercial — No puedes utilizar el material para fines comerciales.
 - CompartirIgual — Si remezclas, transformas o construyes a partir del material, debes distribuir tu contribución bajo la misma licencia que el original.
 
-Sin restricciones adicionales— No puedes aplicar términos legales ni medidas tecnológicas que restrinjan legalmente a otros de hacer algo que la licencia permita.
+Sin restricciones adicionales — No puedes aplicar términos legales ni medidas tecnológicas que restrinjan legalmente a otros de hacer algo que la licencia permita.
 
 IMPORTANTE: Esta traducción es para facilitar la comprensión. En caso de disputa legal, prevalecerá el texto legal original en inglés, disponible en:
 https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
